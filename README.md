@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 
 ## My Github statistics 🚀:
 
-![joeshwoa's github stats](https://github-readme-stats.vercel.app/api?username=joeshwoa-george2&show_icons=true&theme=tokyonight)
+![joeshwoa's github stats](https://github-readme-stats.vercel.app/api?username=joeshwoa2&show_icons=true&theme=tokyonight)
 
-![joeshwoa's github streak](https://github-readme-streak-stats.herokuapp.com/?user=joeshwoa-george&theme=tokyonight&include_all_commits=true&count_private=true)
+![joeshwoa's github streak](https://github-readme-streak-stats.herokuapp.com/?user=joeshwoa&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![joeshwoa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeshwoa-george&theme=tokyonight&layout=compact)
+![joeshwoa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeshwoa&theme=tokyonight&layout=compact)
 
 
 
