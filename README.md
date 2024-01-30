@@ -15,36 +15,37 @@
 - 📫 How to reach me: **joeshwoa.george@gmail.com / +20 120 294 6496**
 
 ## Connect with me 🙋🏻‍♀️:
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/joeshwoa-george-05678b229)
-[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:joeshwoa.george@gmail.com)
-[![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/joeshwoageorge)
-[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://www.facebook.com/joeshwoa.max/)
-
+<p>
+  <a href="https://www.linkedin.com/in/joeshwoa-george-05678b229" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="mailto:joeshwoa.george@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" height="40" width="40" /></a>
+  <a href="https://www.kaggle.com/joeshwoageorge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" /></a>
+  <a href="https://www.facebook.com/joeshwoa.max/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" /></a>
+</p>
 
 ## Languages and Tools 🛠:
 <p>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/undefined/c-sharp-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/undefined/c-sharp-logo.png" width="40" height="40"/>
   
-  <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png" width="40" height="40"/>
   
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png" width="40" height="40"/>
   
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/undefined/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/undefined/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   
-  <img src="https://img.icons8.com/color/48/undefined/dart.png"/>
-  <img src="https://img.icons8.com/fluency/48/undefined/flutter.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/dart.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/undefined/flutter.png" width="40" height="40"/>
 
-  <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v2.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
  </p>
 
 ## My Github statistics 🚀:
