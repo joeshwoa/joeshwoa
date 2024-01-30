@@ -1,65 +1,51 @@
 ### Hi there 👋
 
-<!--
-**joeshwoa/joeshwoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Joeshwoa George</h1>
-
+<h3 align="center">I'm student at Computer Science and Artificial Intelligence Cairo university 💻💻</h3>
 <h3 align="center">A Software Engineer from Egypt</h3><br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joeshwoa&label=Profile%20views&color=000000&style=plastic" alt="joeshwoa" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joeshwoa" alt="loeshwoa" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://github.com/joeshwoa?tab=repositories](https://github.com/joeshwoa?tab=repositories)
 
-<!-- visitors -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarzen&label=Profile%20views&color=0e75b6&style=flat" alt="osama-ibrahim72" /> </p> -->
+- 🔭 I’m currently working on  **Flutter / AI / Embedded System**
+- 🌱 I’m currently learning **UnReal**
+- 💬 Ask me about **related about Programming , AI, Embedded Systems, Web Developing, Disktop Systems and Mobile Application**
+- 📫 How to reach me: **joeshwoa.george@gmail.com / +20 120 294 6496**
 
-
-<!--
-**osama-ibrahim72/osama-ibrahim72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on  **Flutter**
-- 🌱 I’m currently learning **ML / UnReal**
-<!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with 🏆 **2023 Goals: Join a work group and working on big projects in flutter**
-- 💬 Ask me about **related about programming and mobile application**
-- 📫 How to reach me: **joeshwoa.george@gmail.com**
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+## Connect with me 🙋🏻‍♀️:
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/joeshwoa-george-05678b229)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:joeshwoa.george@gmail.com)
+[![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/joeshwoageorge)
+[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://www.facebook.com/joeshwoa.max/)
 
 
 ## Languages and Tools 🛠:
 <p>
-  <img src="https://img.icons8.com/color/48/undefined/dart.png"/>
-  <img src="https://img.icons8.com/fluency/48/undefined/flutter.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style= "display:block"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/undefined/c-sharp-logo.png"/>
+  
   <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
-  <!-- <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/undefined/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png"/> -->
+  
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/undefined/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
   
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/undefined/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+  
+  <img src="https://img.icons8.com/color/48/undefined/dart.png"/>
+  <img src="https://img.icons8.com/fluency/48/undefined/flutter.png"/>
+
+  <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"/>
  </p>
- 
-  ## Connect with me 🙋🏻‍♀️:
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/joeshwoa-george-05678b229)
-[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:joeshwoa.george@gmail.com)
-<!-- [![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/SMSM_72)
-[![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/smsmmarzok30/) -->
 
 ## My Github statistics 🚀:
 
