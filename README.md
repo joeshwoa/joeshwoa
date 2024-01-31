@@ -4,15 +4,20 @@
 <h3 align="center">I'm student at Computer Science and Artificial Intelligence Cairo university 💻💻</h3>
 <h3 align="center">A Software Engineer from Egypt</h3><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joeshwoa&label=Profile%20views&color=000000&style=plastic" alt="joeshwoa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joeshwoa&label=Profile%20views&color=000000&style=plastic" alt="joeshwoa" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joeshwoa" alt="loeshwoa" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/joeshwoa?tab=repositories](https://github.com/joeshwoa?tab=repositories)
-
-- 🔭 I’m currently working on  **Flutter / AI / Embedded System**
-- 🌱 I’m currently learning **UnReal**
+## 💁‍♂️ About me
+- 😃 I'm Joeshwoa George
+- 🏫 From Giza, Egypt
+- 👩🏻‍💻 Student at **Faculty of Computers and Artificial Intelligence** and **Artificial Intelligence (major)**- Cairo University
+- 🚀 Fields that interest me most include **Data Science, Machine Learning, Deep Learning, NLP, Image Processing, Computer Vision, Embedded Systems and Mobile Application**.
+- 🧠 I'm a **Competitive programmer** .
 - 💬 Ask me about **related about Programming , AI, Embedded Systems, Web Developing, Disktop Systems and Mobile Application**
 - 📫 How to reach me: **joeshwoa.george@gmail.com / +20 120 294 6496**
+- 🔭 I’m currently working on  **Flutter / AI / Embedded System**
+- 🌱 I’m currently learning **UnReal**
+- 👨‍💻 All of my projects are available at [https://github.com/joeshwoa?tab=repositories](https://github.com/joeshwoa?tab=repositories)
 
 ## Connect with me 🙋🏻‍♀️:
 <p>
